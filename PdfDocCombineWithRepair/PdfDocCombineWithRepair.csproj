@@ -45,11 +45,11 @@
   <ItemGroup>
     <Reference Include="Atalasoft.PdfDoc">
       <Name>Atalasoft.PdfDoc</Name>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x86\Atalasoft.PdfDoc.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x86\Atalasoft.PdfDoc.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.Shared">
       <Name>Atalasoft.Shared</Name>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x86\Atalasoft.Shared.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x86\Atalasoft.Shared.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">
